@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Venkatesh Yeturi</h1>
 <h3 align="center">I'm a passionate Software Engineer working on Development, Data Science, Machine Learning</h3>
-<!-- <img align = "right" alt = "programmer" width = "400" src = "![image](https://github.com/venkateshyeturi904/venkateshyeturi904/assets/86870290/19c957b7-4aa6-4f3d-94a5-eb42a0430615)
-"> -->
+<img align="right" alt="programmer" width="400" src="![image](https://github.com/venkateshyeturi904/venkateshyeturi904/assets/86870290/ef8a12a3-fe04-4f8f-8a47-1cd5cc766c39)
+">
 - 🔭 I’m currently working on **Video Classification using Computer Vision**
 
 - 🌱 I’m currently learning **React in Frontend Development, Generative AI in AI, Time Series in Data Science**
