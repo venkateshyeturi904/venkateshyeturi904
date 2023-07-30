@@ -1,5 +1,4 @@
-### Hi there 👋
-I am Venkatesh Yeturi 
+### Hi there 👋 I'm Venkatesh Yeturi 
 I am experienced in Software Development, Data Science, Machine Learning
 I love designing new applications with realtime use cases. 
 🔭 I’m currently working on Web development ( frontend - Javascript, React  , Backend - Java, Spring boot , Databases : SQL, MongoDb)
