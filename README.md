@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/venkateshyeturi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkateshyeturi" height="30" width="40" /></a>
 <a href="https://kaggle.com/venkateshyeturi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="venkateshyeturi" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/venkateshyeturi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="venkateshyeturi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/venky_thecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="venky_thecoder" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/coding_theuncoded" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coding_theuncoded" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
