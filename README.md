@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkatesh Yeturi</h1>
-<h3 align="center">I'm a passionate Software Engineer working on Development, Data Science, Machine Learning</h3>
+<h3 align="center">I'm a passionate AI/ML Engineer working on Software Development, Data Science, Machine Learning</h3>
 <img align="right" alt="programmer" width="400" src="https://github.com/venkateshyeturi904/venkateshyeturi904/assets/86870290/ef8a12a3-fe04-4f8f-8a47-1cd5cc766c39">
 
 - 🔭 I’m currently working on **Video Classification using Computer Vision**
